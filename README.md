@@ -7,16 +7,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adityo05/Adityo05/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/Adityo05/Adityo05/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/Adityo05/Adityo05/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ad.dwilow) 
 
